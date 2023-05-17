@@ -1,1 +1,1 @@
-# szut-creation-design
+# Design for my company (https://szut-software.com)
